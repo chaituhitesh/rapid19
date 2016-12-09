@@ -1,7 +1,14 @@
 
 hello
 how r u
+<<<<<<< HEAD
 hijhh
 hhhkk
 bhjhgbj
 
+=======
+welcome 
+jjlkjk
+6546
+6555
+>>>>>>> d571221712939bcad6ce97e7677389dbe0b20878
